@@ -1,9 +1,9 @@
 <h1 align="center"> Hi there 👋 I'm Usman Lubis<h1>
 
+####
 - Currently working as a Fullstack Web Developer at an oil and gas Company
 - 2 years experience as professional in tech
 - You can contact me on [usmanlubis11@gmail.com](mailto:usmanlubis11@gmail.com)
-
 
 #### Connect with me:
 ![https://www.linkedin.com/in/usmanlubis/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/usmanlubis](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
